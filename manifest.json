@@ -1,0 +1,11 @@
+{
+  "name": "E Music",
+  "short_name": "E Music",
+  "description": "Online Music and Music Video Streaming Website",
+  "start_url": "/E-Music/",
+  "scope": "/E-Music/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": []
+}
